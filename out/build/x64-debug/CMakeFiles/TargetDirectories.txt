@@ -1,0 +1,5 @@
+C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/Engine1/CMakeFiles/Engine1.dir
+C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/Engine1/CMakeFiles/edit_cache.dir
+C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/Engine1/CMakeFiles/rebuild_cache.dir

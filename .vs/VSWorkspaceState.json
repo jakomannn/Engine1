@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "build"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Engine1",
+    "\\out"
+  ],
+  "SelectedNode": "\\Engine1\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
