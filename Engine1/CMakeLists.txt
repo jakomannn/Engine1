@@ -3,7 +3,7 @@
 #
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (${PROJECT_NAME} "Engine1.cpp" "Engine1.h")
+add_executable (${PROJECT_NAME} "Engine1.cpp" "Engine1.h" "Player.h" "Player.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Engine1 PROPERTY CXX_STANDARD 20)
