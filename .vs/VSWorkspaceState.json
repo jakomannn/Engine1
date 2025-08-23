@@ -7,8 +7,9 @@
   "ExpandedNodes": [
     "",
     "\\Engine1",
+    "\\images",
     "\\out"
   ],
-  "SelectedNode": "\\Engine1\\CMakeLists.txt",
+  "SelectedNode": "\\out",
   "PreviewInSolutionExplorer": false
 }
