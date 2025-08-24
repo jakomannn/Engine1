@@ -7,12 +7,18 @@
     <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\MyFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\Engine1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\MyFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -9,10 +9,7 @@ int main(int argc, char* argv[])
 	SDL_Renderer* renderer = SDL_CreateRenderer(window, -1, 0);
 
 	SDL_Surface* surface = SDL_LoadBMP_RW(SDL_RWFromFile("../../../images/first_idle_model.bmp", "rb"), 0);
-	
-	if (!surface) {
-		std::cout << "Error creating surface" << SDL_GetError() << std::endl;
-	}
+
 
 	SDL_Texture* texture = SDL_CreateTextureFromSurface(renderer, surface);
 
