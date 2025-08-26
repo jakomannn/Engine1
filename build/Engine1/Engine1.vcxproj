@@ -345,6 +345,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\Player.cpp" />
     <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\MyFunctions.h" />
     <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\MyFunctions.cpp" />
+    <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\GameEngine.cpp" />
+    <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\GameEngine.h" />
+    <ClInclude Include="C:\Users\yafil\source\repos\Engine1\Engine1\Game.h" />
+    <ClCompile Include="C:\Users\yafil\source\repos\Engine1\Engine1\Game.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
