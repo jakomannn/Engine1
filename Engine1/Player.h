@@ -6,12 +6,13 @@
 
 class Player {
 public:
-	Player();
+	Player() = default;
 
+	void increaseMovespeed(int num);
 	void move();
 	void attack();
 
-	~Player();
+	~Player() = default;
 private:
 	std::string name;
 	SDL_Rect hitbox;

@@ -3,15 +3,15 @@
 #include <iostream>
 #include <SDL.h>
 #include <string.h>
-#include <vector>
 
 #include "Player.h"
 
-class Engine {
+
+class GameEngine {
 public:
-	Engine();
-	void update();
-	~Engine();
+	GameEngine() = default;
+	void updatePlayer(SDL_Event* event);
+	~GameEngine() = default;
 private:
-	std::vector<Player> players;
+	Player player;
 };

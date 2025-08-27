@@ -6,5 +6,5 @@
 #include <iostream>
 #include <SDL.h>
 #include "MyFunctions.h"
-
+#include "Game.h"
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.

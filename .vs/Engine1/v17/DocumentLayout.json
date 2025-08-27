@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yafil\\source\\repos\\Engine1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,51 +19,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Engine1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Engine1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\MyFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Engine1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\conanfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:conanfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeUserPresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Engine1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -83,9 +60,22 @@
               "RelativeDocumentMoniker": "Engine1\\Game.cpp",
               "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Game.cpp",
               "RelativeToolTip": "Engine1\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T13:28:59.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp",
+              "RelativeDocumentMoniker": "Engine1\\GameEngine.cpp",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp",
+              "RelativeToolTip": "Engine1\\GameEngine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T13:17:56.382Z",
               "EditorCaption": ""
             },
             {
@@ -96,35 +86,48 @@
               "RelativeDocumentMoniker": "Engine1\\Game.h",
               "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Game.h",
               "RelativeToolTip": "Engine1\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-26T13:28:51.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GameEngine.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.h",
               "RelativeDocumentMoniker": "Engine1\\GameEngine.h",
               "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.h",
               "RelativeToolTip": "Engine1\\GameEngine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-26T13:18:06.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameEngine.cpp",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp",
-              "RelativeDocumentMoniker": "Engine1\\GameEngine.cpp",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp",
-              "RelativeToolTip": "Engine1\\GameEngine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Engine1.h",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h",
+              "RelativeDocumentMoniker": "Engine1\\Engine1.h",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h",
+              "RelativeToolTip": "Engine1\\Engine1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-18T08:54:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp",
+              "RelativeDocumentMoniker": "Engine1\\Player.cpp",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp",
+              "RelativeToolTip": "Engine1\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T13:17:56.382Z",
+              "WhenOpened": "2025-08-23T09:41:50.992Z",
               "EditorCaption": ""
             },
             {
@@ -142,33 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "Engine1\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\CMakeLists.txt",
-              "RelativeToolTip": "Engine1\\CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-18T08:54:47.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Engine1.cpp",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp",
-              "RelativeDocumentMoniker": "Engine1\\Engine1.cpp",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp",
-              "RelativeToolTip": "Engine1\\Engine1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-18T08:54:22.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "MyFunctions.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.h",
               "RelativeDocumentMoniker": "Engine1\\MyFunctions.h",
@@ -181,99 +158,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Engine1.h",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h",
-              "RelativeDocumentMoniker": "Engine1\\Engine1.h",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h",
-              "RelativeToolTip": "Engine1\\Engine1.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-18T08:54:20.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt",
-              "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-18T09:20:16.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.h",
               "RelativeDocumentMoniker": "Engine1\\Player.h",
               "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.h",
               "RelativeToolTip": "Engine1\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-23T09:41:19.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp",
-              "RelativeDocumentMoniker": "Engine1\\Player.cpp",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp",
-              "RelativeToolTip": "Engine1\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Engine1.cpp",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp",
+              "RelativeDocumentMoniker": "Engine1\\Engine1.cpp",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp",
+              "RelativeToolTip": "Engine1\\Engine1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-23T09:41:50.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CMakePresets.json",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json",
-              "RelativeDocumentMoniker": "CMakePresets.json",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json",
-              "RelativeToolTip": "CMakePresets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-18T09:20:48.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "conanfile.txt",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\conanfile.txt",
-              "RelativeDocumentMoniker": "conanfile.txt",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\conanfile.txt",
-              "RelativeToolTip": "conanfile.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-21T09:30:21.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CMakeUserPresets.json",
-              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json",
-              "RelativeDocumentMoniker": "CMakeUserPresets.json",
-              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json",
-              "RelativeToolTip": "CMakeUserPresets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T10:23:00.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "DocumentMoniker": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "ToolTip": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-18T08:54:22.622Z"
+              "WhenOpened": "2025-08-18T08:54:22.415Z"
             }
           ]
         }

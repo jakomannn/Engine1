@@ -4,11 +4,17 @@
 #include <SDL.h>
 #include <string.h>
 
+#include "GameEngine.h"
+
 class Game {
 public:
-	Game();
+	Game() = default;
 	void run();
-	~Game();
+	void quitEngine();
+	~Game() = default;
 private:
-	
+	GameEngine engine;
+	SDL_Window* window = SDL_CreateWindow("game", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 640, 480, 0);
+	int running = 1;
+	SDL_Event event;
 };
