@@ -25,15 +25,15 @@ foreach(_DEPENDENCY ${sdl_FIND_DEPENDENCY_NAMES} )
     endif()
 endforeach()
 
-set(SDL2_VERSION_STRING "2.28.5")
-set(SDL2_INCLUDE_DIRS ${sdl_INCLUDE_DIRS_DEBUG} )
-set(SDL2_INCLUDE_DIR ${sdl_INCLUDE_DIRS_DEBUG} )
-set(SDL2_LIBRARIES ${sdl_LIBRARIES_DEBUG} )
-set(SDL2_DEFINITIONS ${sdl_DEFINITIONS_DEBUG} )
+set(SDL2_VERSION_STRING "2.32.2")
+set(SDL2_INCLUDE_DIRS ${sdl_INCLUDE_DIRS_RELEASE} )
+set(SDL2_INCLUDE_DIR ${sdl_INCLUDE_DIRS_RELEASE} )
+set(SDL2_LIBRARIES ${sdl_LIBRARIES_RELEASE} )
+set(SDL2_DEFINITIONS ${sdl_DEFINITIONS_RELEASE} )
 
 
 # Only the last installed configuration BUILD_MODULES are included to avoid the collision
-foreach(_BUILD_MODULE ${sdl_BUILD_MODULES_PATHS_DEBUG} )
+foreach(_BUILD_MODULE ${sdl_BUILD_MODULES_PATHS_RELEASE} )
     message(${SDL2_MESSAGE_MODE} "Conan: Including build module from '${_BUILD_MODULE}'")
     include(${_BUILD_MODULE})
 endforeach()

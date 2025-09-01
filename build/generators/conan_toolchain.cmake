@@ -42,8 +42,8 @@ cmake_policy(GET CMP0091 POLICY_CMP0091)
 if(NOT "${POLICY_CMP0091}" STREQUAL NEW)
     message(FATAL_ERROR "The CMake policy CMP0091 must be NEW, but is '${POLICY_CMP0091}'")
 endif()
-message(STATUS "Conan toolchain: Setting CMAKE_MSVC_RUNTIME_LIBRARY=$<$<CONFIG:Debug>:MultiThreadedDebugDLL>")
-set(CMAKE_MSVC_RUNTIME_LIBRARY "$<$<CONFIG:Debug>:MultiThreadedDebugDLL>")
+message(STATUS "Conan toolchain: Setting CMAKE_MSVC_RUNTIME_LIBRARY=$<$<CONFIG:Release>:MultiThreadedDLL>")
+set(CMAKE_MSVC_RUNTIME_LIBRARY "$<$<CONFIG:Release>:MultiThreadedDLL>")
 
 
 ########## 'vs_debugger_environment' block #############
@@ -53,7 +53,7 @@ set(CMAKE_MSVC_RUNTIME_LIBRARY "$<$<CONFIG:Debug>:MultiThreadedDebugDLL>")
 # if the file exists it will be loaded by FindFiles block and the variable defined there
 if(NOT EXISTS "${CMAKE_CURRENT_LIST_DIR}/conan_cmakedeps_paths.cmake")
 # This variable requires CMake>=3.27 to work
-set(CMAKE_VS_DEBUGGER_ENVIRONMENT "PATH=$<$<CONFIG:Debug>:C:/Users/yafil/.conan2/p/b/sdldb4f41b711844/p/bin>;%PATH%")
+set(CMAKE_VS_DEBUGGER_ENVIRONMENT "PATH=$<$<CONFIG:Release>:C:/Users/yafil/.conan2/p/sdlff1942bdad16f/p/bin>;%PATH%")
 endif()
 
 
@@ -89,7 +89,7 @@ string(APPEND CONAN_C_FLAGS " /MP12")
 # Include extra C++, C and linker flags from configuration tools.build:<type>flags
 # and from CMakeToolchain.extra_<type>_flags
 
-# Conan conf flags start: Debug
+# Conan conf flags start: Release
 # Conan conf flags end
 
 
@@ -162,9 +162,9 @@ list(PREPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_LIST_DIR})
 # Definition of CMAKE_PREFIX_PATH, CMAKE_XXXXX_PATH
 # The Conan local "generators" folder, where this toolchain is saved.
 list(PREPEND CMAKE_PREFIX_PATH ${CMAKE_CURRENT_LIST_DIR} )
-list(PREPEND CMAKE_LIBRARY_PATH "C:/Users/yafil/.conan2/p/b/sdldb4f41b711844/p/lib")
-list(PREPEND CMAKE_INCLUDE_PATH "C:/Users/yafil/.conan2/p/b/sdldb4f41b711844/p/include" "C:/Users/yafil/.conan2/p/b/sdldb4f41b711844/p/include/SDL2")
-set(CONAN_RUNTIME_LIB_DIRS "$<$<CONFIG:Debug>:C:/Users/yafil/.conan2/p/b/sdldb4f41b711844/p/bin>" )
+list(PREPEND CMAKE_LIBRARY_PATH "C:/Users/yafil/.conan2/p/sdlff1942bdad16f/p/lib")
+list(PREPEND CMAKE_INCLUDE_PATH "C:/Users/yafil/.conan2/p/sdlff1942bdad16f/p/include" "C:/Users/yafil/.conan2/p/sdlff1942bdad16f/p/include/SDL2")
+set(CONAN_RUNTIME_LIB_DIRS "$<$<CONFIG:Release>:C:/Users/yafil/.conan2/p/sdlff1942bdad16f/p/bin>" )
 
 endif()
 

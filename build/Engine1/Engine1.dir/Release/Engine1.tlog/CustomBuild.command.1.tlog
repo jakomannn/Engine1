@@ -1,0 +1,10 @@
+^C:\USERS\YAFIL\SOURCE\REPOS\ENGINE1\ENGINE1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/yafil/source/repos/Engine1 -BC:/Users/yafil/source/repos/Engine1/build --check-stamp-file C:/Users/yafil/source/repos/Engine1/build/Engine1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

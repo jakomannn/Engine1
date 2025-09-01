@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\yafil\\source\\repos\\Engine1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeUserPresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Engine1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -50,11 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "CMakeUserPresets.json",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json",
+              "RelativeDocumentMoniker": "CMakeUserPresets.json",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeUserPresets.json",
+              "RelativeToolTip": "CMakeUserPresets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T17:32:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakePresets.json",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json",
+              "RelativeDocumentMoniker": "CMakePresets.json",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakePresets.json",
+              "RelativeToolTip": "CMakePresets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T17:32:12.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\yafil\\source\\repos\\Engine1\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-01T17:32:08.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Game.cpp",
               "RelativeDocumentMoniker": "Engine1\\Game.cpp",
@@ -62,12 +113,11 @@
               "RelativeToolTip": "Engine1\\Game.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T13:28:59.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:28:59.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameEngine.cpp",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.cpp",
               "RelativeDocumentMoniker": "Engine1\\GameEngine.cpp",
@@ -75,12 +125,11 @@
               "RelativeToolTip": "Engine1\\GameEngine.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-26T13:17:56.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:17:56.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Game.h",
               "RelativeDocumentMoniker": "Engine1\\Game.h",
@@ -88,12 +137,11 @@
               "RelativeToolTip": "Engine1\\Game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T13:28:51.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:28:51.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GameEngine.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\GameEngine.h",
               "RelativeDocumentMoniker": "Engine1\\GameEngine.h",
@@ -101,12 +149,11 @@
               "RelativeToolTip": "Engine1\\GameEngine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T13:18:06.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:18:06.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Engine1.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.h",
               "RelativeDocumentMoniker": "Engine1\\Engine1.h",
@@ -114,12 +161,11 @@
               "RelativeToolTip": "Engine1\\Engine1.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-18T08:54:20.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T08:54:20.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.cpp",
               "RelativeDocumentMoniker": "Engine1\\Player.cpp",
@@ -132,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MyFunctions.cpp",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.cpp",
               "RelativeDocumentMoniker": "Engine1\\MyFunctions.cpp",
@@ -140,12 +186,11 @@
               "RelativeToolTip": "Engine1\\MyFunctions.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-24T12:26:43.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T12:26:43.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MyFunctions.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\MyFunctions.h",
               "RelativeDocumentMoniker": "Engine1\\MyFunctions.h",
@@ -153,12 +198,11 @@
               "RelativeToolTip": "Engine1\\MyFunctions.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-24T12:26:35.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T12:26:35.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Player.h",
               "RelativeDocumentMoniker": "Engine1\\Player.h",
@@ -166,12 +210,11 @@
               "RelativeToolTip": "Engine1\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-23T09:41:19.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T09:41:19.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Engine1.cpp",
               "DocumentMoniker": "C:\\Users\\yafil\\source\\repos\\Engine1\\Engine1\\Engine1.cpp",
               "RelativeDocumentMoniker": "Engine1\\Engine1.cpp",
