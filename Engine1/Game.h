@@ -8,13 +8,15 @@
 
 class Game {
 public:
-	Game() = default;
+	Game();
 	void run();
 	void quitEngine();
 	~Game() = default;
 private:
+	
+	SDL_Window* window;
+	SDL_Renderer* renderer; 
 	GameEngine engine;
-	SDL_Window* window = SDL_CreateWindow("game", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 640, 480, 0);
 	int running = 1;
 	SDL_Event event;
 };
