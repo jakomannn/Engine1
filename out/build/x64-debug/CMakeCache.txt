@@ -87,7 +87,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Users/yafil/source/repos/Engine1/out/build/x64-debug/CMakeFiles/pkgRedirects
 
 //No help, variable specified on the command line.
-CMAKE_INSTALL_PREFIX:PATH=C:/Users/yafil/Source/Repos/Engine1/out/install/x64-debug
+CMAKE_INSTALL_PREFIX:PATH=C:/Users/yafil/source/repos/Engine1/out/install/x64-debug
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe

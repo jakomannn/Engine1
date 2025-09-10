@@ -3,7 +3,7 @@
 #
 
 # Добавьте источник в исполняемый файл этого проекта.
-add_executable (${PROJECT_NAME} "Engine1.cpp" "Engine1.h" "Player.h" "Player.cpp" "MyFunctions.h" "MyFunctions.cpp" "GameEngine.cpp" "GameEngine.h" "Game.h" "Game.cpp" "World.h" "World.cpp")
+add_executable (${PROJECT_NAME} "Engine1.cpp" "Engine1.h" "Player.h" "Player.cpp" "MyFunctions.h" "MyFunctions.cpp" "GameEngine.cpp" "GameEngine.h" "Game.h" "Game.cpp" "World.h" "World.cpp" "Blocks.h" "Blocks.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Engine1 PROPERTY CXX_STANDARD 20)

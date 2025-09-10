@@ -26,7 +26,7 @@
                 "strategy": "external"
             },
             "toolchainFile": "generators\\conan_toolchain.cmake",
-            "binaryDir": "C:\\Users\\yafil\\Source\\Repos\\Engine1\\build"
+            "binaryDir": "C:\\Users\\yafil\\source\\repos\\Engine1\\build"
         }
     ],
     "buildPresets": [
